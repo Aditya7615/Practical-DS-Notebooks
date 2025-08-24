@@ -17,7 +17,6 @@ Description
 
 Key Concepts
 
-1
 
 1st.ipynb
 
@@ -25,7 +24,6 @@ An introduction to fundamental statistics using the Titanic dataset.
 
 Descriptive Statistics, Central Tendency, Dispersion.
 
-2
 
 2nd.ipynb
 
@@ -33,7 +31,6 @@ A deep dive into inferential statistics.
 
 Sampling, Hypothesis Testing, Z-tests.
 
-3
 
 3rd.ipynb
 
@@ -41,7 +38,6 @@ Covers essential data preprocessing and cleaning techniques.
 
 Handling Missing Values, Data Cleaning.
 
-4
 
 4th.ipynb
 
@@ -49,7 +45,6 @@ Focuses on feature scaling and its importance.
 
 Standardization, Normalization.
 
-5
 
 5th.ipynb
 
@@ -57,7 +52,6 @@ Explores classification with a focus on Logistic Regression.
 
 Binary Classification, Model Evaluation.
 
-6
 
 6th.ipynb
 
@@ -65,7 +59,6 @@ Addresses the common problem of imbalanced datasets.
 
 Oversampling (SMOTE), Undersampling.
 
-7
 
 7th.ipynb
 
@@ -73,7 +66,6 @@ Demonstrates techniques for optimizing model performance.
 
 GridSearchCV, RandomizedSearchCV.
 
-8
 
 8th.ipynb
 
@@ -81,7 +73,6 @@ An introduction to powerful ensemble learning methods.
 
 Bagging (Random Forest), Boosting (AdaBoost, XGBoost).
 
-9
 
 9th.ipynb
 
